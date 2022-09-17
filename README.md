@@ -1,6 +1,4 @@
 # AppliSWAP
-Very last version of an app I developped late 2014 and kept updating until mid 2015.
-Based on the work I did with the interns on my previous app, I developped that one on my very own.
 *Detailed description to be added
 
 I uploaded tbe database with the IMEIs (International Mobile Equipment Identity) masked for obvious confidential reason although these are 7 years old devices which are most likely not being used anymore. 
