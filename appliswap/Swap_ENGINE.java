@@ -65,7 +65,7 @@ public class Swap_ENGINE extends javax.swing.JFrame {
     String nom="";
     String CARTE="default";
     String COMPTE="default";
-    String Login0="contact@3rsolutions.fr";
+    String Login0="XXXXXXX";
     String Password0="XXXXXXX";
     String Telephone0="XXXXXXXX";
     String Societe0="3R Solutions";
